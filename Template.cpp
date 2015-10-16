@@ -1,5 +1,6 @@
 /**** Objective : 1. Explaining How template class  
 		  2. Default Template class 
+		  # While using the code if found issue please write to : gautamsingh2100@gmail.com
 ****/
 #include<iostream>
 using namespace std;
